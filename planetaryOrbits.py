@@ -1,4 +1,4 @@
-# https://fiftyexamples.readthedocs.org/en/latest/gravity.html - Code that I used as a basis
+# https://fiftyexamples.readthedocs.org/en/latest/gravity.html - Reference code
 
 import math
 import matplotlib.pyplot as plt
